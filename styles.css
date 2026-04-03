@@ -478,3 +478,7 @@ footer {
     
     .hero-cta { flex-direction: column; }
 }
+
+.footer-content a {
+    color: var(--primary);
+}
